@@ -1,3 +1,9 @@
+//Press button 1 to listen to southafrica music
+//Press button 2 to listen to Nigeria music
+//Press button 3 to listen to Morocco music
+//Press button 4 to listen to Congo music
+//Press button 5 to listen to Tanzania music
+
 import processing.serial.*;
 import processing.sound.*;
 
